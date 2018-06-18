@@ -1,0 +1,39 @@
+{
+  "packages": 
+  [
+    {
+       "name": "MegaSensor",
+       "maintainer": "Proyectil MX",
+       "help": 
+       {
+         "online": ""
+       },
+       "websiteURL": "",      
+       "platforms": 
+       [
+         {
+           "category": "Contributed",
+           "help": 
+           {
+             "online": ""
+           },
+           "url": "https://AdrianRaba.github.io/Demo-upload/MegaSensorBoard-avr-v1.0.0.tar.bz2",
+           "checksum": "SHA-256:1974FCE362FB55BEF878FDA2EA0D830D0DF4609E380BE62B5AF7FBC37CCEBD14",
+           "archiveFileName": "MegaSensorBoard-avr-v1.0.0.tar.bz2",
+           "size": "26222",
+           "name": "Mega Sensor AVR Boards",
+           "version": "1.0.0",
+           "architecture": "avr",
+           "boards": 
+           [
+             {
+               "name": "Mega Sensor (2560)"
+             }
+           ],
+           "toolsDependencies": []
+         }
+      ],
+      "tools":[]
+    }
+  ]
+}
