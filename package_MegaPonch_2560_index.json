@@ -1,0 +1,39 @@
+{
+  "packages": 
+  [
+    {
+       "name": "MegaPonch",
+       "maintainer": "Mega Ponch",
+       "help": 
+       {
+         "online": "http://forum.openpanzer.org"
+       },
+       "websiteURL": "http://openpanzer.org",      
+       "platforms": 
+       [
+         {
+           "category": "Contributed",
+           "help": 
+           {
+             "online": "http://forum.openpanzer.org"
+           },
+           "url": "https://AdrianRaba.github.io/Demo-upload/MegaPonchBoard-avr-v1.0.0.tar.bz2",
+           "checksum": "SHA-256:2C5A7B9BEBC882EB0D74B5F6BF5B9EE5964CCBFA721280318BEE592C75B30425",
+           "archiveFileName": "MegaPonchBoard-avr-v1.0.0.tar.bz2",
+           "size": "26280",
+           "name": "Mega Ponch AVR Boards",
+           "version": "1.0.0",
+           "architecture": "avr",
+           "boards": 
+           [
+             {
+               "name": "Mega Ponch (2650)"
+             }
+           ],
+           "toolsDependencies": []
+         }
+      ],
+      "tools":[]
+    }
+  ]
+}
