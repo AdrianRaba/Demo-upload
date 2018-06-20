@@ -1,0 +1,39 @@
+{
+  "packages": 
+  [
+    {
+       "name": "ROBUS",
+       "maintainer": "Proyectil MX",
+       "help": 
+       {
+         "online": ""
+       },
+       "websiteURL": "",      
+       "platforms": 
+       [
+         {
+           "category": "Contributed",
+           "help": 
+           {
+             "online": ""
+           },
+           "url": "https://AdrianRaba.github.io/Demo-upload/PROJECT_ROBUS_3.0.tar.bz2",
+           "checksum": "SHA-256:7F586C31412871CAFC03B102C0530AD353C92E845CF120491556C5EE6481217E",
+           "archiveFileName": "PROJECT_ROBUS_3.0.tar.bz2",
+           "size": "30955",
+           "name": "Proyectil MX AVR Boards",
+           "version": "3.0.0",
+           "architecture": "avr",
+           "boards": 
+           [
+             {
+               "name": "ROBUS 3.0"
+             }
+           ],
+           "toolsDependencies": []
+         }
+      ],
+      "tools":[]
+    }
+  ]
+}
