@@ -1,0 +1,38 @@
+{
+  "packages": 
+  [
+    {
+       "name": "PROYECTIL-MX",
+       "maintainer": "Proyectil MX",
+       "help": 
+       {
+         "online": ""
+       },
+       "websiteURL": "",      
+       "platforms": 
+       [
+         {
+           "category": "Contributed",
+           "help": 
+           {
+             "online": ""
+           },
+           "url": "https://AdrianRaba.github.io/Demo-upload/PROYECTIL_MX_BOARDS_1.0.0.tar.bz2",
+           "checksum": "SHA-256:171E71E745B985C5A210A9DB9D85AE6F8F17AF2C2C0FCBD6CF461E59739C3196",
+           "archiveFileName": "PROYECTIL_MX_BOARDS_1.0.0.tar.bz2",
+           "size": "35660",
+           "name": "Proyectil MX AVR Boards",
+           "version": "1.0.0",
+           "architecture": "avr",
+           "boards": 
+           [ 
+			 {"name": "Mega Sensor (2560)"},
+             {"name": "ROBUS 3.0"}
+           ],
+           "toolsDependencies": []
+         }
+      ],
+      "tools":[]
+    }
+  ]
+}
