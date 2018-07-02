@@ -1,0 +1,38 @@
+{
+  "packages": 
+  [
+    {
+       "name": "PROYECTIL-MX",
+       "maintainer": "Proyectil MX",
+       "help": 
+       {
+         "online": ""
+       },
+       "websiteURL": "",      
+       "platforms": 
+       [
+         {
+           "category": "Contributed",
+           "help": 
+           {
+             "online": ""
+           },
+           "url": "https://AdrianRaba.github.io/Demo-upload/PROYECTIL_MX_BOARDS_1.0.0.tar.bz2",
+           "checksum": "SHA-256:268503D912E5249292590B81FA57F512480BEADEED443466F589A45339F89957",
+           "archiveFileName": "PROYECTIL_MX_BOARDS_1.0.0.tar.bz2",
+           "size": "35701",
+           "name": "Proyectil MX AVR Boards",
+           "version": "1.0.0",
+           "architecture": "avr",
+           "boards": 
+           [ 
+			 {"name": "Sphinx"},
+             {"name": "ROBUS 3.0"}
+           ],
+           "toolsDependencies": []
+         }
+      ],
+      "tools":[]
+    }
+  ]
+}
